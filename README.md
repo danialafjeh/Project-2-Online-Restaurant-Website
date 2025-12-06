@@ -21,6 +21,7 @@ Admin/restaurant staff can update the order status through the management panel.
 
 👤 User Authentication & Profiles
 Includes user signup, login, and personalized order history.
+The Information of the restaurant's employees include the manager is also can be saved in database and show in about us page.
 
 🧩 Fully Modular Backend Architecture
 All main features are separated into scalable Django apps.
