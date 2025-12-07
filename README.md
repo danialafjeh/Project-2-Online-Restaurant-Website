@@ -26,7 +26,7 @@ The Information of the restaurant's employees include the manager is also can be
 🧩 Fully Modular Backend Architecture
 All main features are separated into scalable Django apps.
 
-🎨 Frontend Details
+🎨 Frontend Details :
 
 🎭 HTML / CSS / JavaScript Frontend
 The frontend is built with simple and clean web technologies.
