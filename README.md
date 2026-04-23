@@ -1,6 +1,10 @@
 # About Project
 🍽️ Online Restaurant Project — Key Features
 
+‼️ NOTE : All information saved in database are just for examples and completely fake.
+
+‼️ NOTE : The language of the website is completely in Persian.
+
 ⭐ Focus on Core Backend Logic
 The project is centered on implementing all essential backend features required for an online restaurant platform using Django.
 
@@ -37,4 +41,3 @@ Because my specialization is backend development, the UI is based on a Bootstrap
 💻 All Backend Logic Implemented by Me
 Only the design template is external — every backend feature, logic, and behavior is fully coded by myself.
 
-* NOTE : The language of the website is completely in Persian.
