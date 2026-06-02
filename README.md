@@ -1,6 +1,8 @@
 # About Project
 🍽️ Online Restaurant Project — Key Features
 
+‼️ NOTE : This is a portfolio project to showing my abilities and it's not a real deployed project. so all users and database are also exactly available.
+
 ‼️ NOTE : All information saved in database are just for examples and completely fake.
 
 ‼️ NOTE : The language of the website is completely in Persian.
